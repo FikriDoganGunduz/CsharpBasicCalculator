@@ -1,0 +1,11 @@
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\bin\Debug\Hesap Makinesi Basit.exe.config
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\bin\Debug\Hesap Makinesi Basit.exe
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\bin\Debug\Hesap Makinesi Basit.pdb
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\obj\Debug\Hesap Makinesi Basit.csproj.AssemblyReference.cache
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\obj\Debug\Hesap Makinesi Basit.csproj.SuggestedBindingRedirects.cache
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\obj\Debug\Hesap_Makinesi_Basit.Form1.resources
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\obj\Debug\Hesap_Makinesi_Basit.Properties.Resources.resources
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\obj\Debug\Hesap Makinesi Basit.csproj.GenerateResource.cache
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\obj\Debug\Hesap Makinesi Basit.csproj.CoreCompileInputs.cache
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\obj\Debug\Hesap Makinesi Basit.exe
+C:\Users\doqan\OneDrive\Masaüstü\Hesap Makinesi Basit\Hesap Makinesi Basit\obj\Debug\Hesap Makinesi Basit.pdb
